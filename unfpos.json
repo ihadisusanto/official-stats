@@ -1,0 +1,153 @@
+[
+    {
+        "judul"  : "Prinsip 1 : Relevansi, Ketidakberpihakan, Akses yang Setara",
+        "tujuan" : {
+            "tujuan 1" : "Statistik resmi adalah barang publik yang tersedia untuk semua orang. Namun, statistik resmi harus relevan sehingga informasi statistik dapat digunakan oleh berbagai kelompok pengguna, termasuk masyarakat umum, pemerintah, bisnis, dan komunitas penelitian. Namun demikian, produksi statistik resmi yang berorientasi pengguna perlu menjamin ketidakberpihakan, menghilangkan petunjuk apa pun untuk bias. Dari perspektif ini, relevansi memastikan kemungkinan bagi pengguna untuk membandingkan informasi statistik dalam ruang dan waktu. Semua pengguna harus   ke data resmi yang berkontribusi pada penggunaan dan kepercayaan yang efektif. Ini adalah instrumen yang sangat penting bagi pemerintah untuk tetap akuntabel"
+        },
+        "implementasi" : {
+            "point 1" : "Pengguna perlu mengonsultasikan secara teratur mengenai potensi mereka dan kebutuhan yang muncul untuk memastikan tingkat relevansi dan kegunaan informasi statistik yang tinggi. Diantaranya kebutuhan prioritas harus diidentifikasi, dipenuhi dan direfleksikan dalam program kerja. Kepuasan pengguna harus dipantau dan ditindaklanjuti secara teratur dan sistematis.",
+            "point 2" : "Sumber dan metode statistik, serta cara penyebaran, harus diinformasikan dengan pertimbangan statistik. Statistik harus disusun secara objektif yang ditentukan oleh pertambangan statistic (statistical considerations). Publikasi statistik yang akan datang perlu dikomunikasikan terlebih dahulu kepada pengguna bersama dengan tanggal dan waktu rilis. Informasi tentang metode dan prosedur yang digunakan harus tersedia untuk umum. Pemberitahuan sebelumnya harus diberikan pada revisi besar atau perubahan metodologi.",
+            "point 3" : "Semua pengguna harus memiliki akses yang sama ke rilis statistik pada waktu yang sama. Akses pra-rilis khusus ke pengguna luar mana pun tidak disarankan dan jika ada harus dibatasi, dikendalikan, dan dipublikasikan. Setelah publikasi statistik, informasi tersebut dapat dan harus diperbaiki jika ada kesalahan yang ditemukan sedini mungkin dan dipublikasikan kembali. Rilis statistik dan pernyataan yang dibuat dalam konferensi pers harus objektif dan non-partisan dan tidak boleh mengandung pernyataan kebijakan preskriptif."
+        }
+    },
+    {
+        "judul" : "Prinsip 2 : Prinsip, Etik, dan Standar Profesional",
+        "tujuan" : {
+            "tujuan 1" : "Informasi statistik yang dihasilkan sesuai dengan pertimbangan profesional, termasuk standar ilmiah. Prinsip dan etika profesional memastikan kepercayaan yang paling penting di antara pengguna. Cara produksi dan penyebaran statistik ini juga menunjukkan bahwa mereka bebas dari pengaruh politik dan eksternal serta bebas dari konflik kepentingan yang mungkin disebabkan karena penugasan tugas non-statistik atau tugas statistik tertentu di luar tugas resmi."
+        },
+        "implementasi" : {
+            "point 1" : "Independensi penghasil statistik resmi dari politik dan campur tangan eksternal lainnya dalam mengembangkan, memproduksi dan menyebarluaskan statistic harus ditentukan dalam undang-undang baik untuk Kantor Statistik Nasional (NSO) dan produsen statistik resmi lainnya, dan diasosiasikan dalam undang-undang dengan cara yang sesuai pengamanan kelembagaan. Hukum, peraturan, dan mekanisme lainnya harus memperkuat kepatuhan terhadap prinsip-prinsip ilmiah dan etika profesional.",
+            "point 2" : "Semua staf dan ahli statistik dalam sistem statistik resmi nasional harus mengikuti dan menghormati etika profesional statistik.",
+            "point 3" : {
+                "pengantar" : "Kepala Kantor Statistik Nasional dan, jika perlu, kepala otoritas statistik lainnya harus:",
+                "point" : [
+                    "Memiliki kedudukan hierarkis yang cukup tinggi untuk memastikan akses ke otoritas kebijakan dan badan publik administratif;",
+                    "Menjadi profesional dengan kualitas tertinggi dan memiliki tanggung jawab akhir menjamin bahwa statistik dikembangkan, diproduksi, dan disebarluaskan secara independen. Ini termasuk keputusan tentang pengembangan, produksi, penyebaran statistik, termasuk pemilihan sumber data, konsep, definisi, metode dan klasifikasi yang akan digunakan, dan waktu serta isi dari semua bentuk penyebaran;",
+                    "Memiliki tanggung jawab untuk memutuskan metode statistik, standar dan prosedur dan waktu rilis statistik. Program kerja statistik harus dipublikasikan, dan laporan berkala harus menggambarkan kemajuan yang dicapai."
+                ]
+            },
+            "point 4" : "Pengangkatan kepala Badan Statistik Nasional dan, jika perlu, pejabat statistik lainnya,harus didasarkan pada kompetensi profesional. Alasan-alasan yang menjadi dasar pemutusan jabatan, harus ditentukan dalam kerangka hukum. Ini tidak dapat mencakup alasan yang mengorbankan independensi profesional atau ilmiah."
+        }
+    },
+    {
+        "judul" : "Prinsip 3 : Akuntabilitas dan Transparansi",
+        "tujuan" : {
+            "tujuan 1" : "Untuk mendapatkan kepercayaan di antara pengguna dengan menjamin akses pengguna ke informasi yang diperlukan, untuk mendukung interpretasi, karakteristik, dan kualitas statistik resmi. Ini dapat dilakukan dengan menggambarkan dan membuat kebijakan dan praktik yang tersedia."
+        },
+        "implementasi" : {
+            "point 1" : "Kepala Kantor Statistik Nasional dan, jika sesuai, kepala otoritas statistik lainnya, harus menjamin akses pengguna ke informasi statistik yang tersedia termasuk informasi pada sumber, metode, dan prosedur yang digunakan.",
+            "point 2" : "Program/strategi, serta laporan pelaksanaan pekerjaan statistik, harus dipublikasikan untuk memastikan akuntabilitas."
+        }
+    },
+    {
+        "judul" : "Prinsip 4 : Pencegahan Penyalahgunaan",
+        "tujuan" : {
+            "tujuan 1" : "Badan statistik dan produsen resmi lainnya memiliki hak untuk memberikan komentar tentang interpretasi yang salah atau penyalahgunaan statistik karena penggunaan statistik resmi yang salah dan menyesatkan dapat merugikan masyarakat, komunitas bisnis, dan kepercayaan umum pada statistik resmi.",
+            "tujuan 2" : "Reaksi badan statistik semacam itu meyakinkan kembali kepercayaan pada media dan pengguna publik dan mendidik pengguna tentang interpretasi yang benar dari statistik resmi adalah penting untuk penggunaan statistik yang benar."
+        },
+        "implementasi" : {
+            "point 1" : "Produsen statistik resmi harus memberikan komentar secara terbuka tentang masalah statistik, termasuk kritik dan penyalahgunaan statistik oleh pengguna. Mereka juga harus mengembangkan materi dan program pelatihan untuk mendidik pengguna tentang interpretasi yang benar dari statistik resmi."
+        }
+    },
+    {
+        "judul" : "Prinsip 5 : Sumber Data Statistik Resmi",
+        "tujuan" : {
+            "tujuan 1" : "Mengingat bahwa produksi statistik resmi adalah tugas yang mahal dan padat karya untuk kantor statistik serta untuk responden, ahli statistik harus menerapkan metode dengan cara yang paling tidak mengganggu dan memilih sumber dengan mempertimbangkan kualitas data, efisiensi biaya, dan beban respons."
+        },
+        "implementasi" : {
+            "point 1" : "Mandat otoritas statistik untuk mengumpulkan informasi untuk pengembangan, produksi, dan penyebaran statistik resmi harus ditentukan dalam undang-undang."
+        }
+    },
+    {
+        "judul" : "Prinsip 6 : Kepercayaan",
+        "tujuan" : {
+            "tujuan 1" : "Untuk menjaga kepercayaan responden, penting untuk mengamankan privasi penyedia data (rumah tangga, perusahaan, dan responden lainnya) dengan memastikan bahwa tidak ada data, apa pun asalnya, yang disebarluaskan yang mungkin terkait dengan orang atau bisnis yang dapat diidentifikasi."
+        },
+        "implementasi" : {
+            "point 1" : {
+                "pengantar" : "Pertama, undang-undang statistik dan kebijakan nasional harus menetapkan ketentuan yang jelas untuk memastikan kerahasiaan statistik yang ketat dari data statistik dan penggunaan eksklusifnya untuk tujuan statistik. Peraturan perundang-undangan dan/atau kebijakan harus benar-benar menjamin:",
+                "point" : [
+                    "Privasi penyedia data (rumah tangga, perusahaan, dan responden lainnya) dan kerahasiaan informasi tentang mereka.",
+                    "Keamanan Informasi",
+                    "Penggunaan secara eksklusif untuk tujuan statistik untuk semua data dalam sistem statistik yang menyangkut badan hukum atau perorangan, apa pun asalnya."
+                ]
+            },
+            "point 2" : "Perlindungan kerahasiaan harus diterapkan pada setiap tingkat proses statistik."
+        }
+    },
+    {
+        "judul" : "Prinsip 7 : Legislasi/Basis Hukum",
+        "tujuan" : {
+            "tujuan 1" : "Peraturan perundang-undangan sangat penting untuk memberikan dasar hukum untuk mengumpulkan, memproduksi, dan menyebarluaskan informasi statistik. Perundang-undangan yang up-to-date dan tepat memastikan kinerja yang efektif dari sistem statistik nasional."
+        },
+        "implementasi" : {
+            "point 1" : "Hukum statistik harus mencakup semua fase pengembangan, produksi, penyebaran dan komunikasi statistik resmi, dan berlaku untuk semua data yang dikumpulkan atau diperoleh untuk tujuan statistik. Undang-undang, peraturan, dan langkah-langkah di mana sistem statistik nasional beroperasi harus tersedia untuk umum, yang pada gilirannya menentukan implementasi hukum yang efektif dan pengakuan peraturannya di antara para pemangku kepentingan."
+        }
+    },
+    {
+        "judul" : "Prinsip 8 : Koordinasi Nasional",
+        "tujuan" : {
+            "tujuan 1" : "Koordinasi kegiatan statistik diperlukan untuk menghindari duplikasi pekerjaan, terminologi yang saling bertentangan dan penyebaran hasil yang bertentangan, tidak peduli apa pengaturan organisasi untuk menghasilkan statistik nasional. Hal ini juga diperlukan untuk meminimalkan beban pelaporan responden dan untuk memfasilitasi integrasi data dari berbagai sumber menggunakan standar statistik."
+        },
+        "implementasi" : {
+            "point 1" : "Pertama, mandat/kekuasaan untuk mengkoordinasikan sistem statistik harus diatur dalam undang-undang. Untuk melaksanakan undang-undang tersebut, mekanisme koordinasi yang diperlukan harus dilaksanakan. Badan koordinasi nasional, paling sering Kantor Statistik Nasional, harus secara efektif mengoordinasikan kegiatan statistik dalam sistem statistik nasional dan dengan demikian meningkatkan konsistensi dan efisiensi sistem statistik. Pertukaran pengetahuan teknis, termasuk kursus pelatihan dan lokakarya dan untuk anggota sistem dapat mendukung penggunaan kerangka kerja konseptual umum, proses dan metode statistik yang sesuai. Ketika standar dibuat untuk digunakan oleh produsen statistik resmi, mekanisme control untuk menerapkannya harus ditetapkan."
+        }
+    },
+    {
+        "judul" : "Prinsip 9 : Penggunaan Standar Internasional",
+        "tujuan" : {
+            "tujuan 1" : "Penggunaan standar umum meningkatkan efisiensi, baik di dalam masing-masing lembaga maupun di dalam keseluruhan sistem statistik resmi."
+        },
+        "implementasi" : {
+            "point 1" : "Penggunaan konsep, klasifikasi, dan metode internasional untuk pengembangan, produksi, dan penyebaran statistic resmi sebaiknya harus ditentukan dalam undangundang dan dipantau di seluruh sistem statistik. Penggunaan konsep, klasifikasi dan metode internasional harus dipromosikan dalam sistem statistik nasional."
+        }
+    },
+    {
+        "judul" : "Prinsip 10 : Kerjasama Internasional",
+        "tujuan" : {
+            "tujuan 1" : "Mengurangi biaya produksi statistik resmi melalui pengembangan standar umum dan alat dan berbagi pengalaman.",
+            "tujuan 2" : "Mengamankan komparabilitas statistik di seluruh negara.",
+            "tujuan 3" : "Keterlibatan internasional, termasuk melalui kegiatan kerjasama teknis, harus dipertimbangkan dan dirancang sebagai situasi yang saling menguntungkan bagi kedua mitra dan dapat mengarah pada peningkatan dan kepercayaan pada statistik resmi."
+        },
+        "implementasi" : {
+            "point 1" : "Kantor Statistik Nasional, dan (sangat relevan) produsen statistik resmi lainnya, harus secara aktif berpartisipasi dalam forum diskusi internasional yang berkaitan dengan statistik, seperti Komisi Statistik Perserikatan Bangsa-Bangsa, untuk memastikan peningkatan statistik yang berkelanjutan di tingkat internasional."
+        }
+    },
+    {
+        "judul" : "Apa yang bisa dipelajari dari 10 prinsip UNFPOS",
+        "pengantar" : "Beberapa hal yang kita dapat pahami dari analisis tujuan dan implementasi 10 prinsip di atas adalah:",
+        "point" : {
+            "judul 1" : "Kami tidak memihak",
+            "keterangan 1" : "kami mempublikasikan temuan yang relevan tanpa rasa takut atau bantuan.",
+            "judul 2" : "Kami profesional",
+            "keterangan 2" : "kami memiliki praktik jaminan kualitas yang ketat",
+            "judul 3" : "Kami ilmiah",
+            "keterangan 3" : "kami memfasilitasi interpretasi data yang benar dengan menggunakan standar ilmiah.",
+            "judul 4" : "Kami vokal",
+            "keterangan 4" : "kami memberikan informasi tentang penggunaan dan interpretasi statistik kami.",
+            "judul 5" : "Kami fleksibel",
+            "keterangan 5" : "Kami mengambil informasi dari banyak sumber",
+            "judul 6" : "Kami melindungi kerahasiaan",
+            "keterangan 6" : "Kami beroperasi di lingkungan fisik dan digital yang aman",
+            "judul 7" : "Kami transparan",
+            "keterangan 7" : "Kami sepenuhnya mengungkapkan metode dan standar kami",
+            "judul 8" : "Kami berkolaborasi",
+            "keterangan 8" : "Kami bekerja dengan lembaga statistik di negara kami untuk menegakkan sistem statistik yang konsisten dan efisien",
+            "judul 9" : "Kami mempromosikan efisiensi",
+            "keterangan 9" : "kami terus meninjau dan memperbarui metode, proses, dan sistem kami.",
+            "judul 10" : "Kami global",
+            "keterangan 10" : "kami bekerja sama dengan mitra internasional untuk memastikan metode terbaik"
+        }
+    },
+    {
+        "judul" : "Manfaat dari implementasi prinsip official statistics (UNFPOS)",
+        "point" : [
+            "Statistik resmi memiliki dasar kelembagaan dan hukum yang kuat. Dikombinasikan dengan standar produksi yang kompeten, tidak memihak, dan independen secara profesional, NSO umumnya memiliki reputasi dan citra yang kuat dan dihormati",
+            "NSO biasanya menghormati mandat untuk mengumpulkan data, yang mungkin lebih sulit bagi lembaga yang mungkin terlihat memiliki motif tersembunyi.",
+            "Dengan cara yang sama, karena perlindungan kerahasiaan data yang kuat oleh NSO, responden lebih cenderung memberikan informasi yang akurat tanpa takut akan konsekuensi apa pun.",
+            "Selanjutnya, mandat yang diberikan kepada NSO memastikan bahwa data dikumpulkan dan dipublikasikan secara konsisten dalam jangka waktu yang lama yang memungkinkan perbandingan fenomena sosial, lingkungan dan ekonomi dari waktu ke waktu.",
+            "Secara lebih umum, statistik resmi dipandang diproduksi dengan satu-satunya tujuan untuk menghasilkan informasi yang benar dan akurat. NSO tidak memiliki kepentingan khusus tambahan, seperti yang mungkin dirasakan oleh beberapa penyedia informasi lainnya."
+        ]
+    }
+    
+]

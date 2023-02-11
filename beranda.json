@@ -1,0 +1,100 @@
+[
+    {
+        "judul" : "Apa itu Official Statistics",
+        "content1" : {
+            "pengantar" :"Secara definisi, official statistics (statistik resmi) adalah statistik atau informasi yang dihasilkan oleh badan pemerintah melalui standar kualitas yang ketat kepada masyarakat luas. Menurut Eurostat (2016), statistik resmi dapat ditentukan melalui tiga pertanyaan :",
+            "subtitle1" :  "Who (siapa yang menghasilkan statistik resmi)",
+            "subcontent1" : "Pada umumnya, statistik resmi dihasilkan oleh kantor statistik atau lembaga pemerintah di suatu negara.",
+            "subtitle2" : "What (apa tujuan statistik resmi)",
+            "subcontent2" : "Program kerja dan prioritas statistik disusun sesuai dengan standar sektor publik dengan keputusan akhir diimplementasikan dalam penyusunan kebijakan. Artinya, statistik resmi dijadikan sebagai landasan dalam pembuatan kebijakan publik.",
+            "subtitle3" : "How (bagaimana statistik resmi dihasilkan)",
+            "subcontent3" : "Statistik resmi diproduksi dengan mengimplementasikan standar dan metodologi statistik internasional dengan penjaminan kualitas yang ketat dan dalam sistem tatakelola yang profesional."
+        },
+        "content2": {
+            "pengantar" : "Tidak semua statistik yang dihasilkan oleh lembaga dapat disebut statistik. Ada beberapa kriteria yang harus dipenuhi oleh suatu statistik agar bisa disebut sebagai statistik resmi (official statistics), yaitu:",
+            "kriteria" : [
+                "Memenuhi standar kualitas statistik resmi",
+                "Dapat diakses oleh semua kalangan",
+                "Dikeluarkan oleh lembaga resmi negara atau organisasi internasional terpercaya."
+            ]
+        },
+        "content3" : {
+            "pengantar" : "Nah, setelah memahami konsep statistik resmi kita juga harus paham karakteristik dari statistik resmi, meliputi:",
+            "content" : {
+                "judul1" : "Independen",
+                "subjudul1" : "Artinya statistik resmi yang dihasilkan harus bebas dari segala macam kepentingan, baik kepentingan politik maupun kepentingan individu atau golongan.",
+                "judul2" : "Profesional",
+                "subjudul2" : "Statistik resmi harus diproduksi dengan menggunakan metodologi yang benar dan berbasis ilmiah. Artinya, statistik resmi harus dihasilkan oleh lembaga yang kredibel dan memiliki SDM yang mumpuni untuk menghasilkan statistik resmi",
+                "judul3" : "Konsisten",
+                "subjudul3" : "Statistik resmi yang dihasilkan harus dirilis sesuai dengan periode (waktu) perilisan, sehingga memudahkan pengguna data dalam melihat kecenderungan (tren) yang terjadi dari waktu ke waktu.",
+                "judul4" : "Mudah diakses",
+                "subjudul4" : "Statistik resmi harus dapat diakses oleh semua kalangan dengan berbagai media, baik media internet, jurnal, buku, media cetak dan infografis.",
+                "judul5" : "Dapat dipercaya",
+                "subjudul5" : "Statistik yang dihasilkan merupakan statistik agregat (yang tidak memunculkan data individu) serta mampu menjaga kerahasiaan data dari responden."
+            }
+        }
+    },
+    {
+        "judul" : "Sumber Data dalam Official Statistics",
+        "pengantar" : "Dalam prosesnya, terdapat dua sumber data primer dan satu sumber data sekunder dalam proses produksi  statistik resmi. Dua sumber data primer meliputi sensus dan survei, sedangkan sumber data sekunder adalah data registrasi.",
+        "content" : {
+            "judul1" : "Survei",
+            "subcontent1" : "Survei adalah metode pengumpulan data yang dilaksanakan melalui proses pencacahan sampel dari suatu populasi untuk memperkirakan karakteristik populasi pada waktu tertentu. Singkatnya, survei adalah cara untuk memperoleh informasi populasi dengan mengambil sebagian dari populasi (sampel). Terdapat dua kategori survei, yaitu survei probabilitas dan survei nonprobabilitas. Survei probabilitas adalah survei yang menggunakan kerangka sampel dan memungkinkan tiap unit populasi memiliki peluang terpilih yang sama besar untuk mejadi sampel. Sedangkan survei nonprobabilitas adalah survei yang dimaksudkan untuk tujuan tertentu dengan perlakuan tertentu, sehingga tidak setiap unit sampel memiliki peluang yang sama untuk terpilih sebagai sampel, contohnya Purposive Sampling, Snowball Sampling.",
+            "judul2" : "Sensus",
+            "subcontent2" : "Sensus atau yang biasa disebut juga sebagai survei lengkap adalah metode pengumpulan data populasi secara keseluruhan untuk mengetahui informasi populasi secara lengkap dan utuh. Namun, sensus memerlukan biaya yang jauh lebih mahal dibandingkan survei.",
+            "judul3" : "Data Registrasi",
+            "subcontent3" : "Data registrasi untuk sumber statistik resmi adalah data yang dicatat oleh badan pencatatan sipil (dukcapil) yang mencatat setiap status sipil dari warganegara, meliputi informasi kelahiran, kematian, perpindahan, dan sebagainya. Di Indonesia, data registrasi belum efektif digunakan karena masih rendahnya kesadaran masyarakat untuk meregistrasikan informasi dirinya kepada pihak pencatatan sipil."
+        }
+    },
+    {
+        "judul" : "Sistem Statistik Nasional di Indonesia",
+        "pengantar1" : "Menurut OECD Glossary of Statistical Terms, sistem statistik nasional adalah kumpulan organisasi statistik suatu negara yang bersama-sama mengumpulkan, memproses, dan menyebarluaskan statistik resmi atas nama pemerintah nasional. Sistem statistik nasional dipimpin oleh suatu lembaga negara yang disebut sebagai Kantor Statistik Nasional (National Statistical Office/NSO). Tujuan dibentuknya NSO adalah agar penyelenggaraan kegiatan statistik dapat menggunakan sumber daya yang tersedia secara optimal, menghindari adanya duplikasi kegitan penyelenggaraan statistik, serta terciptanya sistem yang andal, efektif, dan efisien. Di Indonesia, sistem statistik nasional dipimpin oleh lembaga statistik yang disebut sebagai Badan Pusat Statistik (BPS). Untuk mengenal profil BPS lebih lanjut, silakan klik tombol berikut.",
+        "component1" : [
+            "UU No.16 Tahun 1997 tentang Statistik",
+            "UU No. 23 Tahun 2014 tentang Pemerintah Daerah",
+            "PP No. 51 Tahun 1999 tentang Penyelenggaraan Statistik",
+            "Perpres No. 39 Tahun 2019 tentang Satu Data Indonesia",
+            "Peraturan BPS No.4 Tahun 2019 tentang Norma, Standar, Prosedur, dan Kriteria Penyelenggaraan Statistik Sektoral Daerah oleh Pemerintah Daerah",
+            "Perpres No.86 Tahun 2007 tentang Badan Pusat Statistik"
+        ],
+        "pengantar2" : "Terdapat beberapa landasan hukum yang mengatur penyelenggaraan sistem statistik nasional di Indonesia, meliputi:",
+        "pengantar3" : "Dalam UU No.16 Tahun 1997 tentang Statistik pasal 5, disebutkan bahwa berdasarkan tujuan pemanfaatannya, jenis statistik terdiri atas :",
+        "component3" : {
+            "judul1" : "Statistik Dasar",
+            "subcontent1" : "yaitu statistik lintas sektoral yang mencakup kepentingan banyak pihak, seperti statistik kependudukan, ekonomi, dan pertanian. Statistik ini dilaksanakan oleh Badan Pusat Statistik (BPS)",
+            "judul2" : "Statistik Sektoral",
+            "subcontent2" : "yaitu statistik yang  diselenggarakan oleh kementrerian, lembaga, dan instansi pemerintah sesuai lingkup tugas dan fungsinya",
+            "judul3" : "Statistik Khusus",
+            "subcontent3" :  "Statitsik Khusus, yaitu statistik yang diselenggarakan oleh masyarakat dan pihak swasta untuk kepentingan internal."
+        },
+        "pengantar4" : "Secara ringkas, sistem statistik nasional Indonesia dapat dirangkum pada gambar berikut.",
+        "pengantar5" : "Berdasarkan bagan tersebut, terlihat bahwa antar penyelenggara kegiatan statistik saling melakukan koordinasi. Koordinasi dalam sistem statistik sendiri menjadi amat penting untuk menghasilkan statistik yang efektif, terpadu, dan selaras. Dengan adanya koordinasi penyelenggaran statistik yang baik, maka duplikasi kegiatan statistik antarlembaga dapat dihindari sehingga proses produksi statistik dapat berjalan dengan efisien."
+    },
+    {
+        "judul" : "Apa itu UNFPOS",
+        "pengantar1" : "Salahsatu karakter yang harus dipenuhi oleh suatu statistik agar dapat disebut sebagai statistik resmi adalah memenuhi standar kualitas statistik resmi. Agar suatu statistik memiliki standar kualitas yang baik, maka perlu ada sebuah standar statistik resmi yang berlaku secara internasional agar kualitas statistik tiap negara di dunia memiliki standar yang sama. Untuk itu, Perserikatan Bangsa-Bangsa (PBB) melalui United Nation Statistical Division (UNSD) mengeluarkan 10 standar baku dalam statistik resmi, yang kemudian dikenal sebagai United Nations Fundamental Principle of Official Statistics/UNFPOS dengan harapan dapat membentuk suatu sistem statistik global yang dapat dibandingkan antarnegara, sehingga memudahkan pengambilan keputusan terkait kepentingan dunia internasional. Sepuluh nilai dasar tersebut meliputi :",
+        "component1" : {
+            "judul1" : "Prinsip 1",
+            "subcontent1" : "Relevansi, Ketidakberpihakan, dan Akses yang Setara",
+            "judul2" : "Prinsip 2",
+            "subcontent2" : "Standar, Prinsip, dan Kode Etik yang Profesional",
+            "judul3" : "Prinsip 3",
+            "subcontent3" : "Akuntabilitas dan Transparansi",
+            "judul4" : "Prinsip 4",
+            "subcontent4" : "Pencegahan Penyalahgunaan",
+            "judul5" : "Prinsip 5",
+            "subcontent5" : "Prinsip Sumber Data Statistik Resmi",
+            "judul6" : "Prinsip 6",
+            "subcontent6" : "Dapat dipercaya",
+            "judul7" : "Prinsip 7",
+            "subcontent7" : "Dasar Hukum yang Kuat",
+            "judul8" : "Prinsip 8",
+            "subcontent8" : "Koordinasi Nasional",
+            "judul9" : "Prinsip 9",
+            "subcontent9" : "Penggunaan Standar Internasional",
+            "judul10" : "Prinsip 10",
+            "subcontent10" : "Kerjasama Internasional"
+        },
+        "pengantar2" : "Untuk lebih memahami UNFPOS secara rinci, silakan klik tombol berikut"
+    }
+] 
